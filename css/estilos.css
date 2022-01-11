@@ -5,6 +5,19 @@ body {
     font-size: 16px;
 }
 
+#cabecera 
+{
+    background-color: aqua;
+    color: white;
+    margin:0;
+    font-weight: bold;
+    padding:0.5em;
+}
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font font-weight: normal;
+    font-size: 0.8rem;
+}
 #container {
     width: 70%;
     padding:1em;
