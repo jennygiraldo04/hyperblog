@@ -1,0 +1,35 @@
+commit ce11419c8096ec56ac7e89819ef69bed04e7734d
+Author: Jenny Giraldo <jenny.giraldo.vasquez@gmail.com>
+Date:   Mon Jan 10 02:57:29 2022 -0500
+
+    reemplazo de una version por otra
+
+commit 947d5794131522065ec6fb950ed7be473127058b
+Author: Jenny Giraldo <jenny.giraldo.vasquez@gmail.com>
+Date:   Mon Jan 10 02:50:16 2022 -0500
+
+    cambio de pais
+
+commit 9a624d372284190512895339e4b436ec1ba3d2b9
+Author: Jenny Giraldo <jenny.giraldo.vasquez@gmail.com>
+Date:   Mon Jan 10 02:49:47 2022 -0500
+
+    cambio de vida
+
+commit 2218ff358c085c24cc58cf5df1ba26af699c89d1
+Author: Jenny Giraldo <jenny.giraldo.vasquez@gmail.com>
+Date:   Mon Jan 10 02:49:10 2022 -0500
+
+    arranco mi proyecto css y html
+
+commit bfe6cebb933fdb1af75d19fba4b1f9c4222855ea
+Author: Jenny Giraldo <jenny.giraldo.vasquez@gmail.com>
+Date:   Fri Jan 7 13:24:40 2022 -0500
+
+    cambios al idioma y la edad de jenny
+
+commit 6b94f1861efc425d941f9186413ba441dce254d4
+Author: Jenny Giraldo <jenny.giraldo.vasquez@gmail.com>
+Date:   Fri Jan 7 13:18:25 2022 -0500
+
+    este es el primer commit
