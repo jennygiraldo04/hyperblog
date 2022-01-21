@@ -7,3 +7,4 @@ Lo mas importante de aprender en platzi es la capacidad de socializar con compaÃ
 > 4. - hacer un plan de accion
 creado por cherry pink
 Incluye ejemplos en windows, linux y mac
+disponible para todas las edades
