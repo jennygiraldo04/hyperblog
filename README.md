@@ -5,3 +5,4 @@ Lo mas importante de aprender en platzi es la capacidad de socializar con compaÃ
 2. - practicar una hora diaria
 3. - establecer una meta
 > 4. - hacer un plan de accion
+creado por cherry pink
